@@ -54,7 +54,7 @@ class A:
     def __init__(self,):
         self.string = str()
         self.position = int()
-        self.numerator = map()
+        self.numerator = map(int(),str())
         self.denominator = tuple()
         pass
     
